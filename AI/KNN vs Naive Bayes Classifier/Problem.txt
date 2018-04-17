@@ -1,0 +1,7 @@
+
+Data set (Training and test sets are given separately) is the OCR hand written data available at   https://sites.google.com/site/viswanathpulabaigari/data-sets    It is 192 dimensional, 10 class problem. {see the web-site for details}
+
+Task_1:  Find k to be used in k-nearest neighbor classifier (k-NNC) using a 3-fold cross validation. Give the results in your report. You can draw a plot.
+              With k value thus found employ k-NNC and find the error rate. Report this in your report.
+
+Task_2:  You should read about "the Naive Bayes classification".  Employ the Naive Bayes classifier with the above mentioned data set. You can use log of the posterior (to overcome the small numbers problem). Report about your observations in your report.
